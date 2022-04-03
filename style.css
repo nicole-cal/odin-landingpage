@@ -1,0 +1,46 @@
+.topsection {
+    font-family: 'Roboto', 'Arial', sans-serif;
+    background-color: #1F2937;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.header-img {
+    max-width: 400px;
+}
+
+.hero h1 {
+  font-size: 48px;
+  font-weight: extra-bold;
+  color: #F9FAF8;
+}
+
+.hero p {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+ul {
+    list-style-type: none;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-family: 'Roboto', 'Arial', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 22px;
+    border-radius: 10px;
+    border: none;
+}
